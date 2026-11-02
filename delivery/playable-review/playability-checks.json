@@ -1,0 +1,8 @@
+{
+  "scope": "227 bars, all pitched duration-bearing notes including holds across barlines",
+  "max_attack_keys_per_hand": 4,
+  "max_held_keys_per_hand": 4,
+  "held_span_over_octave": [],
+  "over_five_held_keys": [],
+  "limitations": "Mechanical screen only; leaps, tempo and individual hand size still require player review."
+}

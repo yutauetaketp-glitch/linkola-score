@@ -1,0 +1,134 @@
+[
+  {
+    "bar": 21,
+    "hand": 2,
+    "action": "single voice with explicit releases"
+  },
+  {
+    "bar": 32,
+    "hand": 2,
+    "action": "single voice with explicit releases"
+  },
+  {
+    "bar": 33,
+    "hand": 2,
+    "action": "single voice with explicit releases"
+  },
+  {
+    "bar": 65,
+    "hand": 1,
+    "action": "single voice with explicit releases"
+  },
+  {
+    "bar": 66,
+    "hand": 1,
+    "action": "single voice with explicit releases"
+  },
+  {
+    "bar": 67,
+    "hand": 1,
+    "action": "single voice with explicit releases"
+  },
+  {
+    "bar": 68,
+    "hand": 1,
+    "action": "single voice with explicit releases"
+  },
+  {
+    "bar": 65,
+    "hand": 2,
+    "action": "single voice with explicit releases"
+  },
+  {
+    "bar": 66,
+    "hand": 2,
+    "action": "single voice with explicit releases"
+  },
+  {
+    "bar": 67,
+    "hand": 2,
+    "action": "single voice with explicit releases"
+  },
+  {
+    "bar": 68,
+    "hand": 2,
+    "action": "single voice with explicit releases"
+  },
+  {
+    "bar": 5,
+    "hand": 2,
+    "pitch": 36,
+    "release": "1/2",
+    "action": "release before hand moves"
+  },
+  {
+    "bar": 13,
+    "hand": 2,
+    "pitch": 36,
+    "release": "1",
+    "action": "release before hand moves"
+  },
+  {
+    "bar": 14,
+    "hand": 2,
+    "pitch": 36,
+    "release": "1/2",
+    "action": "release before hand moves"
+  },
+  {
+    "bar": 15,
+    "hand": 2,
+    "pitch": 36,
+    "release": "1/2",
+    "action": "release before hand moves"
+  },
+  {
+    "bar": 27,
+    "hand": 1,
+    "pitch": 71,
+    "release": "2",
+    "action": "release before hand moves"
+  },
+  {
+    "bar": 51,
+    "hand": 1,
+    "pitch": 67,
+    "release": "3/2",
+    "action": "release before hand moves"
+  },
+  {
+    "bar": 51,
+    "hand": 2,
+    "pitch": 46,
+    "release": "2",
+    "action": "release before hand moves"
+  },
+  {
+    "bar": 51,
+    "hand": 2,
+    "pitch": 48,
+    "release": "2",
+    "action": "release before hand moves"
+  },
+  {
+    "bar": 52,
+    "hand": 2,
+    "pitch": 45,
+    "release": "2",
+    "action": "release before hand moves"
+  },
+  {
+    "bar": 139,
+    "hand": 1,
+    "pitch": 70,
+    "release": "1/2",
+    "action": "release before hand moves"
+  },
+  {
+    "bar": 140,
+    "hand": 1,
+    "pitch": 74,
+    "release": "7/4",
+    "action": "release before hand moves"
+  }
+]

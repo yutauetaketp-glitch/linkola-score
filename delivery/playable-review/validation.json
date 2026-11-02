@@ -1,0 +1,19 @@
+{
+  "MusicXML_4_0_schema": "passed",
+  "MXL_container_and_CRC": "passed",
+  "piano_player_parts": 1,
+  "staves": 2,
+  "measures": 227,
+  "pitched_notes": 1937,
+  "numeric_tempo_marks": 7,
+  "tie_pairs": 138,
+  "slur_pairs": 119,
+  "dynamic_marks": 117,
+  "hairpin_pairs": 32,
+  "max_notated_same_onset_span_semitones": 12,
+  "max_simultaneous_attack_span_semitones": 12,
+  "hand_crossings": 0,
+  "problems": [],
+  "music21_import_warnings": [],
+  "music21_staves": 2
+}
